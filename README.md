@@ -4,7 +4,7 @@ This is a repository I store my userscripts.
 
 ## Remove the Products button
 
-Latest version: **v1.1.0**
+Latest version: **v1.2.0**
 
 The userscript is intended to remove the <kbd>Products</kbd> button which Stack Overflow added recently to earn money. This has caused lots of bugs and complaints:
 
@@ -41,7 +41,7 @@ And after:
 
 ## CopyPastor Reporter
 
-Latest version: **2.3.4**
+Latest version: **2.3.5**
 
 The userscripted is clearly adapted from [Sentinel Reported](https://github.com/SOBotics/Userscripts/SentinelReporter/raw/master/SentinelReporter.user.js), but this is much shorter. It adds ✔️ (tp/k) and ❌ (fp/f) buttons to the CopyPastor page.
 
