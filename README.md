@@ -47,7 +47,7 @@ The userscripted is clearly adopted from [Sentinel Reported](https://github.com/
 
 How does it work? In a report page it shows two buttons, press one according to what you think: is the post really plagiarism or not?
 
-![](https://i.stack.imgur.com/yMnKQ.png)s is a repository where I will store some userscripts (most of them I make).
+![image](https://user-images.githubusercontent.com/38133098/67421653-a2d3ab00-f5d9-11e9-89c9-d50151cbc25b.png)
 
 ## More MS feedbacks
 
