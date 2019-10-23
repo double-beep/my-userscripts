@@ -43,8 +43,18 @@ And after:
 
 Latest version: **2.3.5**
 
-The userscripted is clearly adapted from [Sentinel Reported](https://github.com/SOBotics/Userscripts/SentinelReporter/raw/master/SentinelReporter.user.js), but this is much shorter. It adds ✔️ (tp/k) and ❌ (fp/f) buttons to the CopyPastor page.
+The userscripted is clearly adopted from [Sentinel Reported](https://github.com/SOBotics/Userscripts/SentinelReporter/raw/master/SentinelReporter.user.js), but this is much shorter. It adds ✔️ (tp/k) and ❌ (fp/f) buttons to the CopyPastor page.
 
 How does it work? In a report page it shows two buttons, press one according to what you think: is the post really plagiarism or not?
 
 ![](https://i.stack.imgur.com/yMnKQ.png)s is a repository where I will store some userscripts (most of them I make).
+
+## More MS feedbacks
+
+Latest version: **5.0**
+
+Now you can send the following feedbacks from MS: `tpu-`, `fpu-`, `tp-`, `fp-`, `ignore-` and `naa-`!
+
+![](https://user-images.githubusercontent.com/38133098/67421516-54261100-f5d9-11e9-958c-96e1ffc768ac.png)
+
+Hover over each face to see the feedback you send on click!
