@@ -41,7 +41,7 @@ And after:
 
 ## CopyPastor Reporter
 
-Latest version: **2.3.5**
+Latest version: **2.4**
 
 The userscripted is clearly adopted from [Sentinel Reported](https://github.com/SOBotics/Userscripts/SentinelReporter/raw/master/SentinelReporter.user.js), but this is much shorter. It adds ✔️ (tp/k) and ❌ (fp/f) buttons to the CopyPastor page.
 
