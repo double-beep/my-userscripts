@@ -7,5 +7,5 @@
 // ==/UserScript==
 
 (function removeProductsButton() {
-    $("ol").remove(".list-reset, .grid, .gs4")
+    $("ol").remove[0](".list-reset, .grid, .gs4")
 })();
