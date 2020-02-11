@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CopyPastor Reporter
-// @version      2.4
+// @version      2.4.5
 // @description  Quick feedback to Guttenberg directly from CopyPastor's post page
 // @author       double-beep
 // @include      *://copypastor.sobotics.org/posts/*
@@ -61,17 +61,8 @@ if (window.location.pathname.match(/\d+/)) {
   document.getElementById("feedback-k").onclick = function() {addFeedback("k")};
   document.getElementById("feedback-f").onclick = function() {addFeedback("f")};
 } else {
-  //TODO find better way than GET
-  $.get(
-    window.location.href,
-    function(results) {
-      if (!results.posts) {
-        $("body").append('There are no posts!');
-      } else {
-        for (let i = 0; i < results.posts.length; i++) {
-          $("body").append(`<a href="https://copypastor.sobotics.org/posts/${results.posts[i]}">https://copypastor.sobotics.org/posts/${results.posts[i]}</a><br>`)
-        };
-      }
-    }
-  )
+  const ids = $('pre').html().match(/\d+/g);
+  for (let i = 0; i < ids.length; i++) {
+    $("body").append(`<a href="https://copypastor.sobotics.org/posts/${ids[i]}">https://copypastor.sobotics.org/posts/${ids[i]}</a><br>`)
+  }
 }
