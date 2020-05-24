@@ -68,3 +68,13 @@ You can hide and show the right sidebar:
 ![](https://i.stack.imgur.com/BqQ8G.png)
 
 This is helpful when you want to view a large piece of code.
+
+## Retrieve close, reopen and delete votes with low reputation
+
+Latest version: **0.3**
+
+If there are any close, reopen or delete votes that you want to see, but you have not enough reputation, then install this userscript.
+
+![](https://i.stack.imgur.com/Xw2Ek.png)
+
+![](https://i.stack.imgur.com/unmNd.png)
