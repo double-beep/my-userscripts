@@ -51,7 +51,7 @@ How does it work? In a report page it shows two buttons, press one according to 
 
 ## More MS feedbacks
 
-Latest version: **5.0**
+Latest version: **7.0**
 
 Now you can send the following feedbacks from MS: `tpu-`, `fpu-`, `tp-`, `fp-`, `ignore-` and `naa-`!
 
