@@ -58,3 +58,13 @@ Now you can send the following feedbacks from MS: `tpu-`, `fpu-`, `tp-`, `fp-`, 
 ![](https://user-images.githubusercontent.com/38133098/67421516-54261100-f5d9-11e9-958c-96e1ffc768ac.png)
 
 Hover over each face to see the feedback you send on click!
+
+## Toggle the right sidebar
+
+Latest version: **0.1**
+
+You can hide and show the right sidebar:
+
+![](https://i.stack.imgur.com/BqQ8G.png)
+
+This is helpful when you want to view a large piece of code.
