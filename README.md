@@ -61,11 +61,11 @@ Hover over each face to see the feedback you send on click!
 
 ## Toggle the right sidebar
 
-Latest version: **0.1**
+Latest version: **0.2**
 
 You can hide and show the right sidebar:
 
-![](https://i.stack.imgur.com/BqQ8G.png)
+![](https://i.stack.imgur.com/I69py.png)
 
 This is helpful when you want to view a large piece of code.
 
