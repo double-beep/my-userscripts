@@ -61,7 +61,7 @@ Hover over each face to see the feedback you send on click!
 
 ## Toggle the right sidebar
 
-Latest version: **0.3**
+Latest version: **0.4**
 
 You can hide and show the right sidebar:
 
