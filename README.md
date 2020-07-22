@@ -71,7 +71,7 @@ This is helpful when you want to view a large piece of code.
 
 ## Retrieve close, reopen and delete votes with low reputation
 
-Latest version: **0.3**
+Latest version: **0.5**
 
 If there are any close, reopen or delete votes that you want to see, but you have not enough reputation, then install this userscript.
 
