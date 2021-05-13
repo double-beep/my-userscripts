@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Toggle the right sidebar
-// @version      0.5.0
+// @version      0.5.1
 // @author       double-beep
-// @include      /^https://(?:[^/]+\.)?(?:(?:stackoverflow|serverfault|superuser|stackexchange|askubuntu|stackapps)\.com|mathoverflow\.net)/questions/\d+/
+// @include      /^https://(?:[^/]+\.)?(?:(?:stackoverflow|serverfault|superuser|stackexchange|askubuntu|stackapps)\.com|mathoverflow\.net)/*
+// @exclude      https://*.*/review*
 // @updateURL    https://github.com/double-beep/my-userscripts/raw/master/toggleSidebar.user.js
 // @downloadURL  https://github.com/double-beep/my-userscripts/raw/master/toggleSidebar.user.js
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
